@@ -1,1 +1,1 @@
-import './js/health';
+import './js/health.js';
